@@ -1,0 +1,19 @@
+﻿Name,"HIA_Hou
+人肠道吸收","HIA_Status
+HIA评估","Caco2_Wang
+Caco-2渗透性","Caco2_Status
+Caco-2评估","Pgp_Broccatelli
+P-gp底物","Pgp_Status
+P-gp评估","Bioavailability_Ma
+口服生物利用度","Bioavailability_Status
+生物利用度评估","Comprehensive_Score
+综合评分","Rating
+评级","Stars
+星级"
+1_5'-L-valyl-gemcitabine,0.9976,✅ 优秀,-5.5372,⚠️ 中等渗透性,0.0194,✅ 非P-gp底物,0.9165,✅ 高生物利用度,0.8685,优秀,★★★★★
+2_5'-L-valyl-decitabine,0.9913,✅ 优秀,-5.8119,⚠️ 中等渗透性,0.0031,✅ 非P-gp底物,0.8735,✅ 高生物利用度,0.8433,优秀,★★★★★
+3_5'-L-phenylanlany-decitabine,0.9892,✅ 优秀,-5.8821,⚠️ 中等渗透性,0.0293,✅ 非P-gp底物,0.8528,✅ 高生物利用度,0.8279,优秀,★★★★★
+4_Val-Ala-Asn-decitabine,0.4163,❌ 较差,-6.4596,❌ 低渗透性,0.0223,✅ 非P-gp底物,0.3993,❌ 低生物利用度,0.4956,很差,★
+5_EMC-Val-Ala-Asn-decitabine,0.4935,❌ 较差,-6.1435,❌ 低渗透性,0.1003,✅ 非P-gp底物,0.2892,❌ 低生物利用度,0.4836,很差,★
+6_EMC-Ala-Ala-Asn-gemcitabine,0.6873,⚠️ 中等,-6.1582,❌ 低渗透性,0.2249,✅ 非P-gp底物,0.2721,❌ 低生物利用度,0.5110,较差,★★
+7_EMC-Ala-Ala-Ala-Asn-gemcitabine,0.5889,⚠️ 中等,-6.2016,❌ 低渗透性,0.2196,✅ 非P-gp底物,0.2800,❌ 低生物利用度,0.4830,很差,★
