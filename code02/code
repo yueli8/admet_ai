@@ -1,0 +1,12 @@
+#测试一条smiles文件，看是否可以跑通。
+(admet) li@li-ThinkStation-P3-Tower-Gen-2:~/admet_ai$ python 01_test_admet.py
+
+#转换文件，把所有的文件转换成逗号分隔
+
+#批处理多条数据  输入input.csv，输出predict.csv
+(admet) li@li-ThinkStation-P3-Tower-Gen-2:~/admet_ai$ python 06_prediction.py 
+
+#输入predict.csv，输出口服吸收完整分析结果.csv
+(admet) li@li-ThinkStation-P3-Tower-Gen-2:~/admet_ai$ python 07_predict.py 
+
+
