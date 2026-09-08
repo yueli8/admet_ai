@@ -1,0 +1,14 @@
+#测试一条smiles文件，看是否可以跑通。
+(admet) li@li-ThinkStation-P3-Tower-Gen-2:~/admet_ai$ python 01_test_admet.py
+
+#转换成，文件
+(admet) li@li-ThinkStation-P3-Tower-Gen-2:~/admet_ai$ python 00_changto_douhao.py 
+转换完成！输出文件：molecules.csv
+
+#批处理多条数据  输入molecules.csv，输出predictions.csv
+(admet) li@li-ThinkStation-P3-Tower-Gen-2:~/admet_ai$ python 03_prediction.py 
+
+#输入predictions.csv，输出oral_complete.csv和oral_summary.csv
+(admet) li@li-ThinkStation-P3-Tower-Gen-2:~/admet_ai$ python 04_prediction_simple.py 
+
+
